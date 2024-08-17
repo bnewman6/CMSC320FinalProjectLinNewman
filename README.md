@@ -1,2 +1,2 @@
 # CMSC320FinalProjectLinNewman
-This is the official CMSC320 Final Project page. Please give A+
+See main.ipynb for the final report of our Google vs NASDAQ analysis
